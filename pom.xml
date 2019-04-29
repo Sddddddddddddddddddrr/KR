@@ -33,7 +33,7 @@
     		
 			</configuration>
  <configuration>
-	 <testFailureIgnore>true</testFailureIgnore>
+	 
                     <includes>
                        <include>/AppTest1.java</include>
                         <include>/AppTest2.java</include>
