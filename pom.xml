@@ -29,7 +29,19 @@
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-surefire-plugin</artifactId>
     <version>2.21.0</version>
- 
+ <configuration>
+                    <includes>
+                        <include>main/java/pi/AppTest1.java</include>
+                        <include>main/java/pi/AppTest2.java</include>
+                        <include>main/java/pi/AppTest3.java</include>
+                        <include>main/java/pi/AppTest4.java</include>
+                        <include>main/java/pi/AppTest5.java</include>
+                        <include>main/java/pi/AppTest6.java</include>
+                        <include>main/java/pi/AppTest7.java</include>
+                        <include>main/java/pi/AppTest8.java</include>
+                        
+                    </includes>
+                </configuration>
     <dependencies>
         <dependency>
             <groupId>org.junit.platform</groupId>
