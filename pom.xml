@@ -31,14 +31,14 @@
     <version>2.21.0</version>
  <configuration>
                     <includes>
-                        <include>main/java/pi/AppTest1.java</include>
-                        <include>main/java/pi/AppTest2.java</include>
-                        <include>main/java/pi/AppTest3.java</include>
-                        <include>main/java/pi/AppTest4.java</include>
-                        <include>main/java/pi/AppTest5.java</include>
-                        <include>main/java/pi/AppTest6.java</include>
-                        <include>main/java/pi/AppTest7.java</include>
-                        <include>main/java/pi/AppTest8.java</include>
+                       <include>/AppTest1.java</include>
+                        <include>/AppTest2.java</include>
+                        <include>/AppTest3.java</include>
+                        <include>/AppTest4.java</include>
+                        <include>/AppTest5.java</include>
+                        <include>/AppTest6.java</include>
+                        <include>/AppTest7.java</include>
+                        <include>/AppTest8.java</include>
                         
                     </includes>
                 </configuration>
