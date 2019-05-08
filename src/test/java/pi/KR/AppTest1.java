@@ -8,7 +8,7 @@ CalcMain api = new CalcMain();
 
     @Test
     public void testApp(){
-    	String sw = 10"; String sh = "10";
+    	String sw = "10"; String sh = "10";
         assertEquals(121,  api.calculation(sw, sh));
     }
 }
